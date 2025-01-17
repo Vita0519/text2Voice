@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>icons/play.svg</file>
+        <file>icons/stop.svg</file>
+        <file>icons/convert.svg</file>
+        <file>icons/down_arrow.svg</file>
+        <file>icons/import.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/clear.svg</file>
+        <file>icons/main.ico</file>
+    </qresource>
+</RCC> 
